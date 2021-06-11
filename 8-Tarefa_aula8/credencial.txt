@@ -1,0 +1,3 @@
+google:
+        client-id: 433443205558-04icske4b0tel7m6jvf6lka4an4v177c.apps.googleusercontent.com
+        client-secret: pMbn56m2CLUj0BLt0aFlXnO2 
